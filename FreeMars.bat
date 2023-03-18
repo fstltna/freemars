@@ -1,0 +1,1 @@
+start javaw -classpath FreeMars.jar;FreeMarsEditor.jar;FreeMarsImages.jar;FreeMarsHelp.jar;FreeMarsUI.jar;FreeRealm.jar;FreeRealmBasicCommands.jar;FreeRealmBasicOrders.jar;FreeRealmExecutor.jar;FreeRealmXMLConverter.jar;FreeChart.jar;wizard.jar;xercesImpl.jar;log4j-1.2.17.jar;jh-2.0_05.jar org.freemars.FreeMarsLauncher
